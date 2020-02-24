@@ -3,14 +3,14 @@ package kamal;
 public class powermul {
 
 	public static void main(String[] args) {
-		for(int p=1;p<5;p++)
+		for(int v=1;v<5;v++)
 		{
-			int v=1;
-			for(int i=1;i<=p;i++)
+			int a=1;
+			for(int p=1;p<=v;p++)
 			{
-				v=v*p;
+				a=a*v;
 			}
-			System.out.println(v);
+			System.out.println(a);
 		}
 		// TODO Auto-generated method stub
 
