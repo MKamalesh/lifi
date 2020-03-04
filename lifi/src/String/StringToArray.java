@@ -12,5 +12,6 @@ public static void main(String[] args) {
 	System.out.println(b);
 	String d=l.substring(2,5);
 	System.out.println(d);
+	
 }
 }
