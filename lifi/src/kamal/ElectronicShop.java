@@ -7,11 +7,11 @@ public class ElectronicShop {
 	int total;
 	static float amount;
 	float pay;
-	public ElectronicShop(String string,String string2, int j, float k, int l) {
+	public ElectronicShop(String string,String string2, int j, float d, int l) {
 	    name=string;
 	    mobileno=string2;
 	    price=j;
-	    discount=k;
+	    discount=d;
 		this.total=l;
 		// TODO Auto-generated constructor stub
 	}
